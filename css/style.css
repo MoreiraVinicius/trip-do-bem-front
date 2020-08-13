@@ -75,7 +75,11 @@ body {
   .logo_h img{
     height: 150px;
   }
-
+@media(max-width: 994px) {
+  .logo_h img{
+    height: 110px;
+  }
+}
 h1,
 h2,
 h3,
